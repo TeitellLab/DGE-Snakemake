@@ -9,13 +9,13 @@ This repository hosts a differential gene expression analysis pipeline for RSEM 
   * PicardTools
   * Samtools
   * Bamtools
-  * ComBAT/SVA
+  * ComBAT/SVAseq/Alpine/etc.
   * Qualimap
   * RNAseqQC
   * MultiQC
   * DESeq2
   * Broad GSEA run tool
-  * Machine learning tools (LDA, hierarchical clustering, SVD, RFC, PCA prcomp, Pathview, etc. )
+  * Machine learning tools (LDA, hierarchical clustering, SVD, RFC, PCA prcomp and TF inference using PC loadings and , Pathview, etc. )
   * GO Analyses (ClusterProfiler, ReactomePA, DOSE)
   
   
