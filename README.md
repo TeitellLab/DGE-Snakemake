@@ -15,7 +15,7 @@ This repository hosts a differential gene expression analysis pipeline for RSEM 
   * MultiQC
   * DESeq2
   * Broad GSEA run tool
-  * Machine learning tools (LDA, hierarchical clustering, SVD, RFC, PCA prcomp and TF inference using PC loadings and , Pathview, etc. )
+  * Machine learning tools (LDA, hierarchical clustering, SVD, RFC, PCA prcomp and TF inference using PC loadings and WGCNA-ARACNe-ViPER, Pathview, etc. )
   * GO Analyses (ClusterProfiler, ReactomePA, DOSE)
   
   
